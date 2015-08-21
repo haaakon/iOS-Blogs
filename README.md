@@ -12,3 +12,6 @@ A curated list of iOS development blogs
 | NSHipster              | Nate Cook   | http://nshipster.com/           | Bi-weekly          |
 
 ## Blogs on hiatus
+| Name                   | Author        | URL                             |Last updated        |
+| ---------------------- |:------------- |:-------------------------------:| ------------------:|
+| Obj-C.io               |Multiple       | http://objc.io                  | May 24 2015        |
